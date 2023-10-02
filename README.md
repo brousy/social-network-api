@@ -23,17 +23,15 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ```
 
 ## Installation
- Connect schema to database:
+1. In intergrated terminal, type npm i
+2. To start the application, type npm start. 
+3. Test on insomnia
 
- put sql password and username in .env file (this is conected to 'connection.js')
- .gitignore env file
- mysql -u root -p (log-in w/ password)
- source db/schema.sql
- show databases; (to check if datbase has be successfully created)
- use ecommerce_db; (to change into this database)
-
+## Link to Walk Through Video
+[Walk Though](https://youtu.be/12Y9iaTLm5U)
 ## Contributions
 
+Penn Tutor, Wesley Clements
 
 ## License
 
